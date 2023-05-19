@@ -4,8 +4,12 @@
 +4
 somecontent
 and here!
+
+FEATURE
+
 ---------------------------
 12312321321321
 213132132132
 231231321
-FEATURE
+
+more content here
